@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Catalog Movie</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_shows">TV Shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">MOVIE</string>
+    <string name="tvshow">TV SHOW</string>
+    <string name="action_settings">Change Language</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="search">Search</string>
+    <string name="popularity">Popularity</string>
+    <string name="release_date">Release Date: %s </string>
+    <string name="rating">Rating: %s/10 </string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis est vitae erat laoreet consectetur. Mauris
+        dui mauris, dictum vel egestas vel, porta sed ante. Phasellus congue viverra ipsum, in elementum arcu ultricies
+        nec.Morbi tincidunt nisl lacinia, placerat nisi eget, luctus tortor. Morbi efficitur dictum leo, sit amet
+        volutpat lorem sodales nec. Quisque et erat et turpis fringilla condimentum. Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Mauris auctor vulputate libero vitae iaculis. Curabitur id blandit quam. Praesent
+        massa ante, pulvinar vitae sagittis commodo, scelerisque porttitor eros. Mauris suscipit a enim nec congue.
+    </string>
+    <string name="loading">Memuat</string>
+
+</resources>

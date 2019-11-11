@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin" tools:keep="@dimen/fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="text_margin" tools:keep="@dimen/text_margin">16dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="padding" tools:keep="@dimen/padding">4dp</dimen>
+    <dimen name="pbar48dp">48dp</dimen>
+    <dimen name="pbar16dp">48dp</dimen>
+</resources>
